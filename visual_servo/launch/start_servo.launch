@@ -1,0 +1,3 @@
+<launch>
+<node pkg="visual_servo" name="kinova_vs" type="servo" output="screen"  />
+</launch>
